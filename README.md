@@ -6,7 +6,6 @@
         Check out another
         Newest Commit 2
         CC
-        Newest Commit 2AA
         Check out another 2
 C
 D
@@ -23,6 +22,8 @@ F
 This is local branch:
 Commit 1
 Commit 2
+new master commit 1EE
+
 new master commit 1BB
 This is local branch:
 A
