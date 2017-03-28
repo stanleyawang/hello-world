@@ -12,7 +12,7 @@ E
 F
         This is local branch:
         Commit 1
-        DD
+        DD COMMIT C
 
         Commit 2rrrr
 
