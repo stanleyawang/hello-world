@@ -7,3 +7,4 @@ Check out another 2
 
 This is local branch:
 Commit 1
+Commit 2
