@@ -6,6 +6,7 @@
         Check out another
         Newest Commit 2
         Check out another 2
+C
 
         This is local branch:
         Commit 1
