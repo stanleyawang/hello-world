@@ -3,7 +3,7 @@
         Commit 3
         Newest Commit 3
         Testing out the github guides
-        Check out anotherZZZ
+        Check out another
         Newest Commit 2AA
         Check out another 2
 C
@@ -12,6 +12,8 @@ E
 F
         This is local branch:
         Commit 1
+        DD
+
         Commit 2
 
         Newest Commit 1
@@ -19,6 +21,8 @@ F
 This is local branch:
 Commit 1
 Commit 2
+new master commit 1EE
+
 new master commit 1BB
 This is local branch:
 A
