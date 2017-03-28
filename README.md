@@ -11,7 +11,7 @@ D
 E
 F
         This is local branch:
-        Commit 1
+        Commit 1COMMIT E
         DD COMMIT C
 
         Commit 2rrrr
