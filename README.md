@@ -19,7 +19,7 @@ F
         Newest Commit 1
 YYY
 This is local branch:
-Commit 1
+Commit 1B
 Commit 2
 new master commit 1EE
 
