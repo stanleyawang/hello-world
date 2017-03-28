@@ -7,5 +7,6 @@ Check out another
 Check out another 2
 new master commit 1
 This is local branch:
+A
 Commit 1
 Commit 2
