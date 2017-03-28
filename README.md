@@ -8,6 +8,7 @@
         Check out another 2
 C
 D
+E
         This is local branch:
         Commit 1
         Commit 2
