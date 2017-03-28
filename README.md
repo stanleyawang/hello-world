@@ -19,7 +19,7 @@ F
 This is local branch:
 Commit 1
 Commit 2
-new master commit 1
+new master commit 1BB
 This is local branch:
 A
 B
