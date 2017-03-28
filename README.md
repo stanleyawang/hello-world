@@ -3,9 +3,8 @@
         Commit 3
         Newest Commit 3
         Testing out the github guides
-        Check out another
-        Newest Commit 2
-        CCtttt
+        Check out anotherZZZ
+        Newest Commit 2AA
         Check out another 2
 C
 D
