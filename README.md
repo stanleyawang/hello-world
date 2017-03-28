@@ -9,6 +9,7 @@
 C
 D
 E
+F
         This is local branch:
         Commit 1
         Commit 2
