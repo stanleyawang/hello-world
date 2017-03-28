@@ -4,6 +4,7 @@
         Newest Commit 3
         Testing out the github guides
         Check out another
+        Newest Commit 2AACOMMIT D
         Newest Commit 2AACOMMIT A
         Check out another 2uuuu
 C
@@ -11,6 +12,8 @@ D
 E
 F
         This is local branch:
+        Commit 1COMMIT E
+        DD COMMIT C
         Commit 1
         DDCOMMIT B
 
